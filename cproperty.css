@@ -1,0 +1,45 @@
+body{
+    background-color: #aab7b8;
+    background-image: url(Conexão\ de\ rede\ de\ fundo\ tecnológico\ _\ Vetor\ Grátis.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+.rgb{
+    color:rgb(255, 0, 0)
+     border-width:3px 4px 5px 6px;
+     border-style:dashed dotted double solid;
+     border-color: blue orange red greenyellow
+}
+
+.code{
+    color:rgb(0, 0, 255)
+}
+
+p{
+    color: white;
+    width:500px;
+}
+
+h1{
+    border-top:4px solid red
+}
+
+.top{
+    border-top: 4px solid purple ;
+}
+
+.right{
+    border-right: 4px solid red;
+}
+
+.bottom{
+    border-bottom: 4px solid blue;
+}
+
+.left{
+    border-left: 4px solid orange;
+}

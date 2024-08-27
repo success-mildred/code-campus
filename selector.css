@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    color:cornsilk
+}
+
+.para{
+    background-color: yellow;
+}
+
+#hello{
+    text-align: center;
+}
+
+p{
+    color:blueviolet
+}\
+
+.aug p{
+    color: violet
+}

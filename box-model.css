@@ -1,0 +1,38 @@
+h1{
+    outline: 4px dashed red;
+    border: 5px solid blue;
+    /* margin: 100px auto; */
+    /* padding:40px ; */
+    width:200px;
+    text-align: right;
+    margin-left: auto;
+}
+
+h2{
+    text-decoration: overline wavy;
+}
+
+p.right{
+    text-align: right;
+    width: 400px;
+    text-align-last: left;
+    text-transform: capitalize;
+}
+
+p.left{
+    text-align: left;
+    width: 400px;
+    text-align-last:right;
+    text-transform: uppercase;
+}
+p.center{
+    text-align: center;
+    width: 400px;
+    text-align-last:right;
+    text-indent: -40px;
+}
+p.justify{
+    text-align: justify;
+    width: 400px;
+    text-align-last: left;
+}

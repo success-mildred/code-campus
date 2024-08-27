@@ -1,0 +1,23 @@
+[class^="friedrice"]{
+    color:blue
+}
+
+[class$="beans"]{
+    color:blueviolet;
+    font-size: 24px;
+}
+[class*="jollofrice"]{
+    background-color: darkmagenta;
+}
+[data-ingredients*="jam"]{
+    font-size: 34px;
+}
+
+[data-ingredients^="scones"]{
+    color:yellow;  
+}
+
+
+[data-ingredients*="toast"]{
+    color:purple
+}
